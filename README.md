@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGVELOPER)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGVELOPER&theme=merko&show_icons=true)]
 
 <!---
 HONGVELOPER/HONGVELOPER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
