@@ -4,12 +4,9 @@
 
 - 🖥  I'm web backend developer from South Korea 🇰🇷.
 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 If you want to contact me, please leave me a mail by hyjinn1003@gmail.com!
 
-I am interested in sql and spring. I love reading, exercising and communicating!
-
+I am interested in spring(java, kotiln)
 
 
 
